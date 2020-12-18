@@ -1,2 +1,1 @@
-# AFP1.2NagyProjekt
-Webáruház, adatbázis kapcsolattal
+# AFP2020_NTD_NagyProject
